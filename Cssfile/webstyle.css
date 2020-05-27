@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.mark{
+  font-size: 30px;
+    font-family: 'Mansalva', cursive;
+}
+.rightnav{
+  float:right;
+}
+
+img
+{
+  border-radius: 20px;
+}
+
+footer {
+  display: block;
+   width: 100%;
+   color: white;
+}
+
+.footabout{
+  text-align: left;
+  padding-left: 100px;
+  padding-top: 8px;
+font-family: 'Mansalva', cursive;
+
+}
+

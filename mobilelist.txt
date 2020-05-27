@@ -1,0 +1,214 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Chilanka|Courgette|Dancing+Script|Lobster|Mansalva|Old+Standard+TT|Saira+Stencil+One|Satisfy|Vollkorn+SC&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="webstyle.css">
+<style>
+body  {
+  background-image: url("Textures.jpg"); 
+  background-repeat:round;
+}
+
+p {
+  margin-right: 120px;
+  margin-left: 90px;
+ font-family: 'Vollkorn SC', serif;
+ font-size:17px;
+}
+h1{
+  font-family: 'Courgette', cursive;
+   margin-right: 120px;
+  margin-left: 90px;
+  color:#2A108B;
+}
+span {
+  font-weight: bold;
+}
+footer{
+    background-image: url("footer9.jpg");
+    background-repeat: round;
+    border-radius: 10px;
+    height: 20%;
+}
+
+</style>
+</head>
+<body>
+<center>
+  <img src="logo.png" style="margin-bottom: 5px;"></center>
+
+
+<div class="topnav">
+<a href="devicelist.html">Gadgets</a> 
+<a href="carlist.html">Cars</a> 
+<a href="mobilelist.html">Mobiles</a> 
+<a href="tourismlist.html">Tourism</a>
+<div class="rightnav">
+<a href="index.html">Register</a> 
+<a href="log.html">Login</a> 
+</div>
+</div>
+
+<center>
+<h1 class="heading"> My Mobiles List </h1>
+</center>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="mi1.jpg"  style="height:38% ; width:450px">
+  </div>
+  <div class="img-container">
+  <img src="mi2.jpg"  style="height:38% ; width:100%">
+  </div>
+  <div class="img-container">
+  <img src="mi3.jpg" style="width:90% ; height:38%">
+  </div>
+</div>
+<h1>Xiaomi Mi 8</h1>
+
+<p>
+<span>Super AMOLED Screen With HDR10</span>
+The Xiaomi Mi 8 succeeds the Mi 6, and it brings a bezel-less screen design. There s a 6.2-inch Super AMOLED screen with Full HD+ resolution (2248x1080 pixels).The screen is covered by Corning Gorilla Glass 5 panel. The Mi 8 has a glass-and-metal design, with the metal part being Series 7000 Aluminium and the glass part being Gorilla Glass 5.<br>
+
+<span>Snapdragon 845, 8GB RAM, 256GB Storage</span>
+The Mi 8, which runs Android 8.1 Oreo-based MIUI 10, comes equipped with 2018 s best Qualcomm mobile platform: Snapdragon 845. There s a mid-priced variant with 6GB RAM and 128GB storage. There s no microSD card slot, though, so storage expansion isn t possible.<br>
+
+<span>Dual 12MP Rear Camera, 20MP Selfie Camera</span>
+The primary 12MP .55-inch camera sensor has f/1.8 aperture, 1.4 micron pixels, dual-pixel phase-detection autofocus and 4-axis OIS. The secondary 12MP camera uses a smaller .4-inch sensor, f/2.4 aperture, 1 micron pixels, and 2x optical zoom lens (56mm). The 20MP selfie camera at the front has fixed focus.<br>
+
+<span>Fingerprint Reader+IR Face Unlock, 3400mAh Battery</span>
+There are two biometric authentication systems in the Mi 8: fingerprint reader and IR face unlock. The IR face unlock related sensors are placed in the screen notch area at the front.The Mi 8 features two SIM card slots, 4G LTE, GPS, dual-band gigabit Wi-Fi, Wi-Fi Direct, Bluetooth 5.0, NFC and a USB 2.0 Type-C port.
+
+<span>EXPECTED PRICE
+Rs.24,500</span>
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="samsung1.jpg"  style="width:100% ;height:330px ">
+  </div>
+  <div class="img-container">
+  <img src="samsung2.jpeg"  style="width:100%;height:330px">
+  </div>
+  <div class="img-container">
+  <img src="samsung3.jpeg" style="width:100%;height:330px">
+  </div>
+</div>
+<h1 >Samsung Galaxy M10s</h1>
+
+<p>
+<span>Design</span>
+The Galaxy M10s has a plastic body and frame. Like most budget phones, it has quite thick bezels. Samsung has gone with a V-shaped notch design to house a selfie camera. Slightly above that sits an earpiece. A mono speaker is placed at the bottom. Moving around the back, you get a recessed fingerprint sensor. The camera assembly, on the other hand, is protruding.<br>
+
+<span>Display</span>
+The phone sports a 6.2-inch display with HD+ resolution. It is a PLS (Plane-to-Line Switching) panel developed by Samsung known for its wide-viewing angles much like the IPS (In Place Switching) display technology. Samsung hasn't mentioned if the display has any scratch protection.<br>
+
+<span>Performance</span>
+The Galaxy M10s is powered by Samsung's in-house Exynos 7885 chipset. The 14 nm chip comprises of two Cortex A73 cores peaking at 2.2 GHz and six Cortex A53 cores clocked at 1.6 GHz. It is coupled with Mali G71 MP2 GPU for gaming. It should be enough for casual gaming. The handset has 3 GB of RAM, 32 GB internal storage, and a microSD card slot. On the software front, the phone ships with Android 9 Pie with a watered-down version of Samsung's One UI on top. The Korean company has done a good job revamping its Android customization.<br>
+
+<span>Cameras</span>
+Much like its predecessor, the Galaxy M10s comes with a 13 MP + 5 MP dual camera. The primary lens is accompanied by a wide-angle sensor. The budget device offers low-light enhancements and Live Focus feature for portrait shots. On the front of the device sits an 8 MP snapper for selfies. It is a step up from the Galaxy M10's 5 MP module.<br>
+
+<span>Battery And Connectivity</span>
+Samsung has fitted the phone with a 3,500 mAh battery. Paired with a power-efficient Exynos 7885 chip, the battery can easily for a day on a single charge. The Galaxy M10s is a dual SIM 4G VoLTE handset. It covers connectivity essentials such as Bluetooth 4.2, A-GPS (network assisted), and micro-USB port.<br>
+
+<span>EXPECTED PRICE
+Rs.9,999</span>
+
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="rog1.jpeg"  style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="rog2.jpg"  style="width:100% ; height:320px">
+  </div>
+  <div class="img-container">
+  <img src="rog3.jpg" style="width:100%; height:320px">
+  </div>
+</div>
+<h1 >Asus ROG Phone 2</h1>
+
+<p>
+<span>Display and Camera</span>
+The Asus ROG Phone 2 flaunts a 6.59-inch AMOLED display having a resolution of 1,080 x 2,340 pixels and a density of 391 PPI. The aspect ratio of 19.5:9 makes it look better. The device has a Corning Gorilla Glass as well, which protects it from minor scratches and marks.
+For the cameras, it has a 48MP and 13MP lenses.<br>
+
+<span>Configuration and Battery</span>
+The Asus ROG Phone 2 has been equipped with the Qualcomm Snapdragon 855+ chipset with an octa-core processor having a clock speed of up to 2.96GHz. It is further assisted Adreno 640 and an 8GB RAM, which is great for graphics, games and smooth performance.
+For the power backup, there is a Li-Po battery having a capacity of 6,000mAh, which is huge provided to back up the device for a long time. It is also provided with a Hyper Quick Charging feature that can refill the battery in a short time.<br>
+<span>Storage and Connectivity</span>
+The storage capacity is 128GB, which is huge to make room for users to keep their files and data. There is no expandable memory slot.
+For the connectivity, it has 4G VoLTE support in both the slots and other than that, it has Wi-Fi 802.11, a/b/g/n, Mobile Hotspot, Bluetooth, GPS with A-GPS, USB Type-C, etc.<br>
+
+<span>Rs. 35,090( Expected Price )</span>
+ 
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="vivo1.jpeg"  style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="vivo2.jpg"  style="width:100%; height:305px">
+  </div>
+  <div class="img-container">
+  <img src="vivo3.jpeg" style="width:100%; height:305px">
+  </div>
+</div>
+<h1>Vivo V17 Pro</h1>
+
+<p>
+
+<span>Display and Camera</span>
+The Vivo V17 Pro features a 6.39-inch Super AMOLED display that has a screen resolution of 1,080 x 2,340 pixels. It results in a pixel density of 403 PPI and features a bezel-less design. The device has a Corning Gorilla Glass that protects the display from scratches. The device is armed with a quad primary camera setup having 48MP, 13MP, 8MP and 2MP lenses along with an Exmor-RS CMOS Sensor. These are capable to provide mesmerising images and can record 4k videos at 30 fps speed. There is a front camera setup having 16MP and 2MP lenses that can click good quality selfies.<br>
+
+<span>Performance</span>
+The Vivo V17 Pro has equipped two Kryo 470 processors as 2.2GHz dual-core and a 1.8GHz Hexa Core units. These act as the brain of the system and are seated on a Qualcomm Snapdragon 730 chipset. There is a 6GB RAM that deals with the multitasking. Moreover, an Adreno 618 GPU answers the graphical requirements of the system.<br>
+
+<span>Storage, Battery and Connectivity</span>
+The Vivo V17 Pro houses a 128GB inbuilt storage, which is massive to save a lot of images, songs, videos, etc. Furthermore, it can be expanded up to 256GB by using a memory card. The device is powered by a 4,000mAh Li-ion battery, which can provide a backup for a whole day. The device is equipped with quick-charging that can refill the battery at a lightning-fast speed. As for the connectivity, the smartphone has a number of options such as 4G with VoLTE, Wi-Fi 802.11, b/g/n, Mobile Hotspot, Bluetooth, GPS, USB type-C.<br>
+
+<span>Rs. 27,990( Expected Price )</span>
+ 
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="huawei3.jpg"  style="width:100%; height:305px">
+  </div>
+  <div class="img-container">
+  <img src="huawei2.jpeg"  style="width:100%; height:305px">
+  </div>
+  <div class="img-container">
+  <img src="huawei1.jpg" style="width:100%">
+  </div>
+</div>
+
+<h1 >Huawei Mate 20 X 5G</h1>
+
+<p>
+<span>Display</span>
+Huawei Mate 20 X 5G is an upcoming smartphone by Huawei. The phone is rumoured to come with a 7.20-inch touchscreen display with a resolution of 1080x2244 pixels and an aspect ratio of 18.7:9.<br>
+<span>Processor</span>Huawei Mate 20 X 5G is expected to be powered by an octa-core HiSilicon Kirin 980 processor that features 2 cores clocked at 2.6GHz, 2 cores clocked at 1.92GHz and 4 cores clocked at 1.8GHz and come with 6GB of RAM.<br>
+The Huawei Mate 20 X 5G is rumoured to run Android 9.0 and is expected to be powered by a 4,200mAh non-removable battery. The Huawei Mate 20 X 5G supports wireless charging, as well as proprietary fast charging.<br>
+<span>Camera</span>The Huawei Mate 20 X 5G is rumoured to pack a 40-megapixel primary camera with an f/1.8 aperture; a second 20-megapixel camera with an f/2.2 aperture and a third 8-megapixel camera with an f/2.4 aperture. It is expected to sport a 24-megapixel camera on the front for selfies, with an f/2.0 aperture.
+The Huawei Mate 20 X 5G runs EMUI 9.0 based on Android 9.0 and packs 128GB of inbuilt storage that can be expanded via Nano Memory Card card (up to 256GB).<br>
+<span>Connectivity</span> options on the Huawei Mate 20 X 5G are said to include Wi-Fi 802.11 a/b/g/n/ac, GPS, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone are rumoured to include accelerometer, gyroscope, proximity sensor, and fingerprint sensor.<br>
+
+<span>Expected Price:	Rs. 89,990</span>
+ 
+</p>
+
+<footer>
+  <div class="footabout">
+    <span style="font-size: 25px;">Contact:</span>  <span style="display:inline-block;width: 1060px;"></span>
+     <span style="font-size: 25px;">About</span><br>
+    9769745703  <span style="display:inline-block; width: 1040px;"> </span>  Harsh Bagadia<br>
+    <span style="font-size: 25px;">Reach Me at:</span> <span style="display:inline-block; width: 930px;"> </span> SyBsc computer Science<br>
+    harsh.bagadia1999@gmail.com <span style="display:inline-block; width: 855px;"></span> Web Programming Project<br>
+    
+</div> 
+</footer>
+</body>
+</html> 

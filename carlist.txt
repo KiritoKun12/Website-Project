@@ -1,0 +1,186 @@
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Chilanka|Courgette|Dancing+Script|Lobster|Mansalva|Old+Standard+TT|Saira+Stencil+One|Satisfy|Vollkorn+SC&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="webstyle.css">
+<style>
+body  {
+  background-image: url("texture4.jpg"); 
+  background-repeat:round;
+}
+
+p{
+  margin-right: 120px;
+  margin-left: 90px;
+  font-family:Chilanka,cursive; 
+  font-size: 20px;
+}
+h1 {
+	  margin-right: 120px;
+  margin-left: 90px;
+font-family: 'Abril Fatface', cursive;
+}
+footer{
+    background-image: url("footer8.jpg");
+    background-repeat:round;
+    border-radius: 10px;
+    height: 20%;
+}
+
+
+</style>
+</head>
+<body>
+<center>
+ <img src="logo.png" style="margin-bottom: 5px;" ></center>
+
+
+<div class="topnav">
+<a href="devicelist.html">Gadgets</a> 
+<a href="carlist.html">Cars</a> 
+<a href="mobilelist.html">Mobiles</a> 
+<a href="tourismlist.html">Tourism</a>
+<div class="rightnav">
+<a href="index.html">Register</a> 
+<a href="log.html">Login</a> 
+</div>
+</div>
+
+<center>
+<h1 class="heading"> My Cars List </h1>
+</center>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="bronco1.jpg"  style="width:100% ; height:330px">
+  </div>
+  <div class="img-container">
+  <img src="bronco2.jpeg"  style="width:100%; height:330px">
+  </div>
+  <div class="img-container">
+  <img src="bronco3.jpeg" style="width:100%; height:330px">
+  </div>
+</div>
+<h1 style="color:purple">2020 Ford Bronco</h1>
+
+<p >
+Back by popular demand according to blue oval brass – the iconic nameplate returns in 2020 after two and a half decades of absence. The 2020 Ford Bronco will be neither the compact off-roading 4X4 SUV of the early days nor the bulky full-sizer from the SUV’s later years. Instead, it’ll 
+
+be a contemporary intermediate underpinned by the Ranger pickup platform.However, Ford still intends to pit it directly against the Jeep Wrangler which can mean only one thing – the modern Bronco will be one highly capable off-roader for sure.Furthermore, in order to successfully challenge the Wrangler, the next-gen Bronco will be fitted with the same front and rear Dana axles with AdvanTEK gear technology like its adversary. Whether the front ones will be solid or independent, remains to 
+
+be seen.The 2020 Ford Bronco’s powertrain lineup has yet to be revealed, but there’s a number of powerful yet efficient EcoBoost mills to choose from. Considering it shares both the platform and assembly plant with the Ranger pickup, it wouldn’t come as a surprise if it gets the same family
+
+of engines as well.For now, this means a 270-horsepower 2.3L turbocharged 4-cylinder paired with a 10-speed automatic transmission. A slightly larger 2.7L EcoBoost V6 could also be on the cards for both the Bronco and Ranger, further down the line.Expect the 2020 Ford Bronco to finally 
+
+arrive to dealers next year (although it was initially expected in late 2019) with stickers starting in the low $30,000 figures. 
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="rimac1.jpeg"  style="width:100%; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="rimac2.jpeg"  style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="rimac3.jpeg" style="width:100%">
+  </div>
+</div>
+<h1 style="color:purple">2020 Rimac C_Two</h1>
+
+<p>
+It might have a rather unconventional name spelling and it might be coming from the most unlikely of places, but there’s nothing uninteresting about the Croatian company’s second hypercar. The Rimac C_Two came to, saw, and conquered the 2018 Geneva auto show with a combination of immaculate design, highly-advanced technology, and otherworldly performance. The EV supercar company’s second model even eclipses the notorious Rimac Concept One – which almost took Richard Hammond from us – in almost every segment.
+
+Only 150 units will be built and sold for a staggering $2 million or thereabouts depending on exchange rates. Unsurprisingly, the company says almost all of them have already been spoken for. The exorbitant price tag is there for numerous reasons including the almost fully carbon-fiber-built body and Level 4 autonomous capability with artificial intelligence.
+
+But the Rimac C_Two’s most expensive bit has to be the 1,888-horsepower powertrain consisting of four electric motors – one at each wheel. The latest of the all-electric hypercars also sports a 120-kWh Lithium Nickel Manganese Cobalt Oxide battery pack which allows it slightly north of 400 miles of range according to the NEDC cycle. The EPA figures will be lower, but still impressive as they’ll likely translate to something between 300 and 350 miles of range.
+
+With seamlessly all the ponies in the world under its – well, not hood – the 2020 Rimac C_Two is capable of accelerating to 60 mph from a standstill in just 1.85 seconds. It’ll also max out at 256 mph making it one of the fastest production cars in the world at the moment. Fastest or not, the 2020 Rimac C_Two is certainly among the best new cars 2020 will have to offer.
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="tesla1.jpeg"  style="width:100%; height:330px">
+  </div>
+  <div class="img-container">
+  <img src="tesla2.jpeg"  style="width:100%; height:330px">
+  </div>
+  <div class="img-container">
+  <img src="tesla3.jpeg" style="width:100%; height:330px">
+  </div>
+</div>
+<h1 style="color:purple">2020 Tesla Roadster</h1>
+
+<p>
+It didn’t take the Rimac C_Two long to beat the fastest acceleration of any production vehicle in history. That record was, for a brief time, held by the new Tesla Roadster which was revealed at the Tesla Semi event in 2017, in spectacular fashion.
+
+Elon Musk’s second take on the Roadster name is supposed to be much more successful than the first one. The Roadster Mk2 should, by all means, be the most advanced Tesla model yet, and one of the most advanced and best 2020 new cars at the same time.
+
+The stylish 2+2 roadster with a glass roof should become one of the most unique supercars on the market the moment it arrives. This should happen in 2020, but knowing the California-based company’s punctuality, we wouldn’t exclude a later date just yet. When it does arrive, the next-gen Tesla Roadster will start from around $200,000.
+
+Not only will the new Tesla Roadster come with an exorbitant price tag, but with ample power and range to boot. Thanks to three electric motors (one up front and two out back), the Roadster will be able to hit the 60 mph mark from a standing start in just 1.9 seconds while maxing out at around 250 mph.
+
+Thanks to its large 200 kWh battery pack, on the other hand, it should provide as much as 620 miles of range if driven relatively lightly. Not only will it be ludicrously fast, but equally tech-savvy as well. It is expected that Tesla will include their latest autonomous driving technology in the mix, but who would want to pass up the opportunity of enjoying the ultimate EV’s ride the proper way?
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="gene1.jpg"  style="width:100% ; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="gene2.jpg"  style="width:100%; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="gene3.jpeg" style="width:100%; height:310px">
+  </div>
+</div>
+<h1 style="color:purple">2020 Genesis GV80</h1>
+
+<p>
+The youngest South Korean car manufacturer currently operating on the U.S. market is finally expanding its range with long-anticipated all-new crossovers. The first of the two new upcoming vehicles will be the mid-size luxury Genesis GV80 poised to give the likes of BMW X5, Audi Q7, and Mercedes-Benz GLS Class cause for concern.
+
+The 2020 Genesis GV80 will either be underpinned by a stretched Hyundai Santa Fe platform or a modified in-house rear-wheel-drive platform that’s currently underpinning the Genesis sedans. It’s safe to say that the final product will differ from the GV80 Concept unveiled in New York in 2017. At least to some extent. It should adopt the Genesis sedan’s design cues while sporting the Santa Fe’s overall shape.
+
+Continuing with their audience-winning strategy, the Koreans will likely offer their typical ‘better-than-the-industry-standard’ warranty and maintenance conditions alongside a price that undercuts that of its competitors.
+
+Being the largest of the upcoming Genesis models, the 2020 GV80 will likely be offered with the company’s most powerful engines. In practice, that means a modern 3.3L twin-turbo V6 and a traditional 5.0L V8 option. The former will produce 365 horsepower and 376 lb-ft of torque, whereas the latter should be good enough for 420 horsepower and 383 lb-ft of torque. However, it would also seem that the Koreans are working on an all-new 3.5L V6 as well. Expect a modern 8-speed automatic unit as its sole transmission option.
+
+The Genesis GV80 might not be one of the most anticipated new arrivals for MY 2020 in the general population’s eyes, but that’s only due to the South Korean luxury brand’s general obscurity. If they continue to offer pure quality and refinement they’ve been offering to date, they won’t remain obscure for long. And the GV80 will deservedly be able to find its own spot under the sun.
+</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="jeep1.jpeg"  style="width:100%; height:320px">
+  </div>
+  <div class="img-container">
+  <img src="jeep2.jpeg"  style="width:100%; height:320px">
+  </div>
+  <div class="img-container">
+  <img src="jeep3.jpeg" style="width:100%; height:320px">
+  </div>
+</div>
+<h1 style="color:purple">2020 Jeep Gladiator</h1>
+
+<p>
+The beloved off-road division’s first pickup truck since the discontinuation of the XJ Cherokee-based Comanche back in 1992 is finally ready for production after years of development and plethora of rumors that had accompanied it.
+
+Based on the JL Wrangler that debuted in 2018, the Jeep’s first pickup in a quarter of a century will officially pull the Gladiator name out of retirement after more than 30 years. It doesn’t only share the new Wrangler’s platform but the overall styling as well. Furthermore, the Jeep Wrangler pickup also sports removable doors and top, and a fold-down windshield – much like its SUV sibling.
+
+However, the pickup version of the Wrangler SUV has looked further for suspension. This it’s found in the next-gen Ram 1500 pickup. The 2020 Jeep Gladiator is priced slightly above the Wrangler (starting from around $34,500), and is available in only four trim options – at least in its inaugural year.
+
+The Gladiator’s powertrain lineup will be very similar to that of the SUV as well. A 3.6L V6 with 285 horsepower and 260 lb-ft of torque is standard from the get-go, but it’s also the only available engine at launch. It’s available either with a standard 6-speed stick or an optional 8-speed auto transmission. Further down the line, the FCA will also unlock a 3.0L turbo-diesel V6 which cranks up 260 hp and 442 lb-ft of torque. Considering FCA is introducing a mild-hybrid system into the conventional Wrangler lineup, the same should be expected from the pickup version of the SUV.
+
+Nothing has been said of Wrangler’s optional 2.0L turbocharged 4-cylinder engine capable of making 270 hp and 295 lb-ft of torque, but that option already sports a mild-hybrid assist. Now that it’s finally here, the 2020 Jeep Gladiator should easily take its place among the best new vehicles 2020 is bringing our way.
+</p>
+
+<footer>
+  <div class="footabout">
+    <span style="font-size: 25px;">Contact:</span>  <span style="display:inline-block;width: 1060px;"></span>
+     <span style="font-size: 25px;">About</span><br>
+    9769745703  <span style="display:inline-block; width: 1040px;"> </span>  Harsh Bagadia<br>
+    <span style="font-size: 25px;">Reach Me at:</span> <span style="display:inline-block; width: 930px;"> </span> SyBsc computer Science<br>
+    harsh.bagadia1999@gmail.com <span style="display:inline-block; width: 855px;"></span> Web Programming Project<br>
+    
+</div> 
+</footer>
+</body>
+</html> 

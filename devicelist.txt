@@ -1,0 +1,220 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Chilanka|Courgette|Dancing+Script|Lobster|Mansalva|Old+Standard+TT|Saira+Stencil+One|Satisfy|Vollkorn+SC&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="webstyle.css">
+<style>
+body  {
+  background-image: url("bgimage6.jpg"); 
+  background-repeat:round;
+}
+p {
+  margin-right: 120px;
+  margin-left: 90px;
+  font-family: 'Courgette', cursive;
+  font-size:22px;
+  color: white;
+}
+h1{
+    margin-right: 120px;
+  margin-left: 90px;
+    color: #FD87C4;
+  font-family: 'Satisfy', cursive;
+}
+footer{
+    background-image: url("footer10.jpg");
+   background-repeat: round;
+    border-radius: 10px;
+    height: 20%;
+    color: black;
+}
+
+</style>
+</head>
+<body>
+<center>
+ <img src="logo.png" style="margin-bottom: 5px;"></center>
+
+
+<div class="topnav">
+<a href="devicelist.html">Gadgets</a> 
+<a href="carlist.html">Cars</a> 
+<a href="mobilelist.html">Mobiles</a> 
+<a href="tourismlist.html">Tourism</a>
+<div class="rightnav">
+<a href="index.html">Register</a> 
+<a href="log.html">Login</a> 
+</div>
+</div>
+
+<center>
+<h1 class="heading"> My Gadgets List </h1>
+</center>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="lenovo1.jpg" style="width:100%; height:280px">
+  </div>
+  <div class="img-container">
+  <img src="lenovo2.jpg"  style="width:100%; height:280px">
+  </div>
+  <div class="img-container">
+  <img src="lenovo3.jpeg"  style="width:100%; height:280px">
+  </div>
+</div>
+<h1 >Lenovo Smart Clock with Google Assistant</h1>
+
+<p >
+We're no strangers to interactive screens in the home, between Facebook Portals and Amazon Echos and Google Hubs. The beauty 
+
+of Lenovo's new Smart Clock, then, is its simplicity. It won't video conference or stream TV, but it covers all the bedside bases: 
+
+It tells times, charges phones, and gently wakes you up with a clock face that gradually brightens before your alarm goes off. By 
+
+connecting it to Google Assistant, you can instruct it to do a whole lot more. Small and stylish with its heather gray case, it's an 
+
+unobtrusive and helpful addition.
+</p>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="watch1.jpeg"  style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="watch2.jpeg"  style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="watch3.jpeg"  style="width:100%">
+  </div>
+</div>
+<h1 >Withings Move Activity and Sleep Watch</h1>
+
+<p>
+Withings Move, the new smartwatch from Withings for 2019, monitors your activity and your sleep. It has a GPS tracker and syncs 
+
+with the Health Mate app. It only costs $69.95. Most impressively, it works for 18 months without requiring a battery charge. That, 
+
+and its understated design with an analog clock face, makes it more timeless than a lot of trackers on the market. The customization
+
+options are plentiful too, so you can easily get it to fit your look.
+</p>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="translate1.png"  style="width:100% ; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="translate2.webp"  style="width:100%; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="translate3.webp" style="width:100%; height:310px">
+  </div>
+</div>
+<h1 >Waverly Ambassador Translator</h1>
+
+<p>
+Many of us have the misfortune of being cursed with monolingualism. Blame the public school system in America. But for those 
+
+who want to travel regardless of language boundaries—or easily converse with people who speak different languages in their own 
+
+neighborhood—Waverly Labs invented an audio device that translates on the spot. There are many situations in which to use it, but 
+
+perhaps the most useful setup is to attach one to your ear, hand the other to someone who doesn't speak the same language to strap 
+
+onto their own head, and talk away. The correct translation will play in both of your ears. The technology is still in the Indiegogo 
+
+stage, but it might be worth it to you to get your hands on an early version.
+</p>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="mug1.jpg"  style="width:100%; height:325px">
+  </div>
+  <div class="img-container">
+  <img src="mug2.jpeg" style="width:100%; height:325px">
+  </div>
+  <div class="img-container">
+  <img src="mug3.jpeg"  style="width:100%; height:325px">
+  </div>
+</div>
+<h1 >Ember 14 oz. Temperature Control Mug</h1>
+
+<p>
+This mug is a godsend to people who can't function without morning coffee (as in, a large segment of the population). All it does 
+
+is use internal heating technology to keep your caffeinated beverage hot—for an hour. You can nurse coffee without repeated trips 
+
+to the microwave, or steep tea to the ideal temperature (all controlled via a Bluetooth-connected app). And that's all it needs to do. 
+
+While Ember debuted these mugs awhile back, the 14-ounce version is new to 2019, and extremely helpful to your morning routine.
+</p>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="moodoo1.jpg"  style="width:100%; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="moodoo2.jpg"  style="width:100%; height:310px">
+  </div>
+  <div class="img-container">
+  <img src="moodoo3.jpeg" style="width:100%; height:310px">
+  </div>
+</div>
+<h1 >Moodo Smart Diffuser Bundle</h1>
+
+<p>
+Moodo makes aroma diffusers for the home that can be personalized thanks to four interchangeable scent capsules and smart 
+
+technology you can control from afar; this diffuser has been around for more than a year. Now, Moodo has introduced the MoodoGo 
+
+device, which is easy to cart around because it's tiny. All you need is a USB power supply for it to start dispensing good smells. 
+
+The MoodoGo only holds one scent capsule, but it's a perfect fit for car cupholders and cramped desk spaces. You can't pre-order it 
+
+yet, but you can sign up for updates on the Moodo website. In the meantime, the OG Moodo diffuser (pictured) might tide you over 
+
+with a variety of scent packs to choose from. 
+</p>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="kit1.jpg"  style="width:100%; height:350px">
+  </div>
+  <div class="img-container">
+  <img src="kit2.jpg"  style="width:100%; height:350px">
+  </div>
+  <div class="img-container">
+  <img src="kit3.jpeg" style="width:100%; height:350px">
+  </div>
+</div>
+<h1>KitchenAid Cook Processor Connect</h1>
+
+<p>
+KitchenAid gave U.S. consumers a new kitchen counter appliance to lust after this year: the Cook Processor Connect, a do-it-all 
+
+machine that automatically stirs veggies as they sauté, chops ingredients to your preferred size, kneads dough, steams food, 
+
+measures weight, and more.It also comes programmed with 100 recipes with step-by-step instructions accessed through an app.
+
+ It's like an Instant Pot, but pretty (and expensive). Release date and price were not announced, but expect it to cost well 
+
+over $1,000.
+</p>
+
+<footer>
+  <div class="footabout">
+    <span style="font-size: 25px;">Contact:</span>  <span style="display:inline-block;width: 1060px;"></span>
+     <span style="font-size: 25px;">About</span><br>
+    9769745703  <span style="display:inline-block; width: 1040px;"> </span>  Harsh Bagadia<br>
+    <span style="font-size: 25px;">Reach Me at:</span> <span style="display:inline-block; width: 930px;"> </span> SyBsc computer Science<br>
+    harsh.bagadia1999@gmail.com <span style="display:inline-block; width: 855px;"></span> Web Programming Project<br>
+    
+</div> 
+</footer>
+</div>
+</body>
+</html>
